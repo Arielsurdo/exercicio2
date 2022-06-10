@@ -1,0 +1,19 @@
+.titulo{
+    background-color: darkgreen;
+    color: gray;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: ;
+}
+.bloco1{
+    background-color: aqua;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+}
+.bloco2{
+    background-color: chartreuse;
+    color: chocolate;
+    padding: 10px;
+    border-radius: 20px;
+}
